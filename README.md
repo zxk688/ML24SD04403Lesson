@@ -2,7 +2,7 @@
 # 任务说明
 ```
 （1）基于机器学习的蛋白肽序列活性分类任务，利用提供的训练集，设计模型，进行模型训练，在测试集进行预测；
-（2）可以使用的python库包括：numpy、pandas、sklearn、pytorch等；
+（2）用python实现，可以使用的python库包括：numpy、pandas、sklearn、pytorch等；
 （3）独立完成或者最多四人组队，提交代码和说明文档。代码能够直接运行，如用机器学习，应把训练和测试代码都保留，如用深度学习，还要把模型权重保存。如进行了调参，只需保留最优参数及对应的结果即可；
 （4）提交的文档内容包括：小组成员及学号，使用的python库，采用的数据处理、模型和测试精度，精度计算采用sklearn库的balanced_accuracy_score(y_true, y_pred)函数；
 （5）5月12日之前，发送到邮箱zhangxiaokang@wust.edu.cn，5月16日会请同学在课堂上进行讲解；
